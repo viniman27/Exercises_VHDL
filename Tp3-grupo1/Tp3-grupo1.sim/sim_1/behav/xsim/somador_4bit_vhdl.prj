@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Tp3-grupo1.srcs/sources_1/new/complemento_1.vhd" \
+"../../../../Tp3-grupo1.srcs/sources_1/new/somador_1bit.vhd" \
+"../../../../Tp3-grupo1.srcs/sources_1/new/somador_4bit.vhd" \
+
+# Do not sort compile order
+nosort

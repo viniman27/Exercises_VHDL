@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Sep  5 15:56:56 2021
+# Process ID: 3596
+# Current directory: C:/Users/vinicius/Documents/Vivado/Tp3-grupo1-20210902T210402Z-001-20210905T185613Z-001/Tp3-grupo1-20210902T210402Z-001/Tp3-grupo1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12976 C:\Users\vinicius\Documents\Vivado\Tp3-grupo1-20210902T210402Z-001-20210905T185613Z-001\Tp3-grupo1-20210902T210402Z-001\Tp3-grupo1\Tp3-grupo1.xpr
+# Log file: C:/Users/vinicius/Documents/Vivado/Tp3-grupo1-20210902T210402Z-001-20210905T185613Z-001/Tp3-grupo1-20210902T210402Z-001/Tp3-grupo1/vivado.log
+# Journal file: C:/Users/vinicius/Documents/Vivado/Tp3-grupo1-20210902T210402Z-001-20210905T185613Z-001/Tp3-grupo1-20210902T210402Z-001/Tp3-grupo1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/vinicius/Documents/Vivado/Tp3-grupo1-20210902T210402Z-001-20210905T185613Z-001/Tp3-grupo1-20210902T210402Z-001/Tp3-grupo1/Tp3-grupo1.xpr
+update_compile_order -fileset sources_1
